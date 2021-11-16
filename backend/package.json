@@ -29,7 +29,7 @@
     "@types/passport": "^1.0.3",
     "@types/passport-jwt": "^3.0.3",
     "@types/uuid": "^7.0.2",
-    "aws-sdk": "^2.648.0",
+    "aws-sdk": "^2.814.0",
     "cron": "^1.8.2",
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.18.1",
